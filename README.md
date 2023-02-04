@@ -1,6 +1,8 @@
 # Numerical Methods, 2023
 This repository contains the supplementary course material prepared for the course, Numerical Methods, for the January-April 2023 semester. 
 
+More details will be added soon.
+
 ## References
 The course content is based on the book     
 _Numerical Methods in Physics with Python_, Alex Gezerlis, Cambridge University Press (Edition-1, 2020).  
